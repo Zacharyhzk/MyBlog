@@ -46,6 +46,7 @@
 | blog-web | 前台模块 | 该模块作为单独项目打包部署 |
 | blog-file | 文件存储功能模块 | 支持local、七牛云和阿里云OSS |
 
+----
 
 # 技术栈
 
@@ -70,6 +71,7 @@
 - webMagic
 - ...
 
+----
 
 # 快速开始
 
@@ -97,4 +99,4 @@ Compose 是用于定义和运行多容器 Docker 应用程序的工具。通过 
 
 # 开源协议
 
-[![license](https://img.shields.io/badge/license-GPL%20v3-yellow.svg)]
+![license](https://img.shields.io/badge/license-GPL%20v3-yellow.svg)
